@@ -51,7 +51,7 @@ Sistema de balcão para oficina mecânica: controla as peças, monta pedidos e o
 
 <img src="https://nexus-solucoes-de-software-e-tecnologias.web.app/img/oficina-capa.jpg" alt="Oficina Lemes: painel e estoque no celular" width="100%">
 
-### 💈 Agenda para barbearia <sub>protótipo</sub>
+### 💈 Agenda para barbearia
 Agendamento online pelo celular, sem cadastro e sem senha: o cliente escolhe o serviço, o dia e o horário em três toques. O barbeiro acompanha o dia num painel e conversa com o cliente pelo WhatsApp.
 
 - Só mostra horários livres de verdade: respeita expediente, almoço, folga entre clientes e bloqueios
